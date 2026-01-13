@@ -28,4 +28,4 @@ Bu proje eğitim ve öğrenme amaçlı geliştirilmiş olup frontend tasarım pr
 
 <h2> Ekran Goruntusu </h2>
 
-![](ekran-goruntusu)
+![](ekran-goruntusu.gif)
